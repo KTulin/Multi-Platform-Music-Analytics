@@ -20,6 +20,15 @@ Alongside the chart, a leaderboard presents the top tracks with the highest enga
 
 
 
-#HOW TO RUN
-1. clone the repository:
+# HOW TO RUN
+1. clone the repository: https://github.com/KTulin/Multi-Platform-Music-Analytics
+2. Navigate into the project folder: cd your-repo-name
+3. Install the required dependencies: pip install -r requirements.txt
+4. Make sure the dataset is in the correct location: data/dataset.csv
+5. Run the Streamlit app: streamlit run src/main.py
+
+## NOTE ##
+1. Ensure Python is installed (preferably Python 3.9+)
+2. If the dataset is not visible on GitHub, download it manually and place it inside the `data/` folder
+3. Ensure the dataset is placed in the following location: data/dataset.csv
    
