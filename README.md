@@ -17,3 +17,9 @@ The main visualization is a horizontal bar chart that ranks either artists or tr
 
 Alongside the chart, a leaderboard presents the top tracks with the highest engagement, giving a clearer, report-style summary of the strongest performers. Together, these elements help identify what content resonates most with listeners, separating songs that simply gain views from those that actually build an active and loyal audience.
 
+
+
+
+#HOW TO RUN
+1. clone the repository:
+   
